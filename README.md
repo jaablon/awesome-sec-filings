@@ -73,6 +73,7 @@ Whether you're tracking institutional investors through 13F filings, analyzing e
 
 ## Datasets
 
+- [bigtech-ai-stakes](https://github.com/YichengYang-Ethan/bigtech-ai-stakes) - Public-company equity stakes in Anthropic and OpenAI tracked from primary 10-K / 10-Q / 8-K filings, court records, and press releases. Each row tagged with a confidence flag (V / P / S).
 - [SEC EDGAR Full Index](https://www.sec.gov/Archives/edgar/full-index/) - Complete EDGAR filing index, updated quarterly.
 - [SEC Financial Statement Datasets](https://www.sec.gov/dera/data/financial-statement-data-sets) - Structured financial statement data extracted from XBRL filings.
 - [SEC 13F Data (Kaggle)](https://www.kaggle.com/datasets/loisjones/13f-data) - Historical 13F filing data on Kaggle.
